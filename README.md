@@ -4,7 +4,7 @@
 
 <img width="1424" alt="Screen Shot 2023-05-25 at 17 38 06" src="https://github.com/luisfernandomendozav/css-battle-answers/assets/109832400/754e2ed6-9240-4473-bdc1-94ed96562c37">
 
-"
+```
 <div></div>
 <style>
   * {    
@@ -19,4 +19,4 @@
     background: #b5e0ba;
   }
 </style>
-"
+```
